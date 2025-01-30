@@ -8,6 +8,24 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/01. Scenes/Lobby.unity
     guid: 28272dd46b8add04ab9665ee9f282157
+  - enabled: 1
+    path: Assets/01. Scenes/Markey_Test.unity
+    guid: cfaf3ebb71bf94b42aa31e20cc380488
+  - enabled: 1
+    path: Assets/01. Scenes/Result0.unity
+    guid: 328c8e51fe5c1a048a2e94da84145737
+  - enabled: 1
+    path: Assets/01. Scenes/Result25.unity
+    guid: af9c28dff3b52ee4aaea122fedb9f082
+  - enabled: 1
+    path: Assets/01. Scenes/Result50.unity
+    guid: c91c8367d40761b489df81f840a486db
+  - enabled: 1
+    path: Assets/01. Scenes/Result75.unity
+    guid: 381e135b1ff7a6b498949a80dba34d8b
+  - enabled: 1
+    path: Assets/01. Scenes/Result100.unity
+    guid: a5465791206abed4aabe383cfaaa3c9d
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2af1a89a9c092124a8da737f38f9ec98, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 66d5e3ea9070d5b4d9b8be54fe17db50, type: 2}
